@@ -21,6 +21,9 @@ export task_5_file=""
 ```
 
 ```
+curl -LO https://raw.githubusercontent.com/ChanduCharanSample/-Earn-20-Skill-Badges-Cloud-Learning-Journey-/main/cloudcupcake4.sh
+sudo chmod +x cloudcupcake4.sh
+./cloudcupcake4.sh
 
 
 ```
