@@ -4,7 +4,8 @@ Solution Video: Watch Here
 
 order_items_challenge:
 
-Task 1.order_items_challenge.view
+Task 1.
+order_items_challenge.view
 
 ```
 
@@ -49,7 +50,8 @@ view: order_items_challenge {
 ```
 ---
 user_details
-Task 2.user_details.view
+Task 2.
+user_details.view
 ```
 # If necessary, uncomment the line below to include explore_source.
 # include: "training_ecommerce.model.lkml"
