@@ -7,8 +7,8 @@ Here are **20 Skill Badges** you can complete to build expertise in **AI, Data, 
 
 ## Skill Badge List
 
-1. Create ML Models with BigQuery ML  (https://www.cloudskillsboost.google/paths/18/course_templates/626)  
-2. Build Infrastructure with Terraform on Google Cloud  (https://www.cloudskillsboost.google/course_templates/636?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=44386424)  
+1. [Create ML Models with BigQuery ML](https://www.cloudskillsboost.google/paths/18/course_templates/626)  
+2. [Build Infrastructure with Terraform on Google Cloud](https://www.cloudskillsboost.google/course_templates/636?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=44386424)  
 3. Build LookML Objects in Looker  (https://www.youtube.com/@CloudCupcake1217)  
 4. Cloud Speech API: 3 Ways  (https://www.youtube.com/@CloudCupcake1217)  
 5. Create and Manage AlloyDB Instances  (https://www.youtube.com/@CloudCupcake1217)  
