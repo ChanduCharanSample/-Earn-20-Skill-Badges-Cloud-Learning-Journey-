@@ -1,7 +1,13 @@
-🚀 Build LookML Objects in Looker: Challenge Lab || GSP361 🚀
+# 🚀 Build LookML Objects in Looker: Challenge Lab || GSP361 🚀
 Solution Video: Watch Here
-order_items_challenge
+--- 
+
+order_items_challenge:
+
 Task 1.order_items_challenge.view
+
+```
+
 view: order_items_challenge {
   sql_table_name: `cloud-training-demos.looker_ecomm.order_items`  ;;
   drill_fields: [order_item_id]
@@ -40,8 +46,11 @@ view: order_items_challenge {
   }
 
 }
+```
+---
 user_details
 Task 2.user_details.view
+```
 # If necessary, uncomment the line below to include explore_source.
 # include: "training_ecommerce.model.lkml"
 
@@ -80,10 +89,15 @@ view: user_details {
   description: ""
   }
 }
+
+```
+---
 training_ecommerce.model
 Update the VALUE_1 in Line 21 with the FILTER #1 Value Provided in Lab
 Update the VALUE_2 in Line 33 with the FILTER #3 Value Provided in Lab
-Task 3.``
+Task 3.
+```
+
 connection: "bigquery_public_data_looker"
 
 # include all the views
@@ -186,9 +200,16 @@ explore: events {
   relationship: many_to_one
   }
 }
+
+```
+
+---
+
 training_ecommerce.model
 Update the NUM in Line 10 with the Given No. of Hours in Task4 From Lab Manual.
-Task 4.``
+Task 4.
+```
+
 connection: "bigquery_public_data_looker"
 
 # include all the views
@@ -269,7 +290,6 @@ explore: events {
   relationship: many_to_one
   }
 }
-Kudos 🌟 on completing the lab!
-You’ve brilliantly showcased your talent and dedication.
-Keep it up!
-don't forget to follow here
+
+```
+---
