@@ -15,7 +15,7 @@ Here are **20 Skill Badges** you can complete to build expertise in **AI, Data, 
 6. [Create and Manage Bigtable Instances](https://www.cloudskillsboost.google/course_templates/650)  
 7. [Create and Manage Cloud Spanner Instances](https://www.cloudskillsboost.google/course_templates/643)  
 8. [Create and Manage Cloud SQL for PostgreSQL Instances](https://www.cloudskillsboost.google/course_templates/652?catalog_rank=%7B%22rank%22%3A31%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D)  
-9. [Deploy Kubernetes Applications on Google Cloud]([https://www.youtube.com/@CloudCupcake1217](https://www.cloudskillsboost.google/course_templates/663?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=44386498))  
+9. [Deploy Kubernetes Applications on Google Cloud](https://www.cloudskillsboost.google/course_templates/663?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=44386498))  
 10. [Discover and Protect Sensitive Data Across Your Ecosystem](https://www.cloudskillsboost.google/course_templates/1177)  
 11. [Enhance Gemini Model Capabilities](https://www.cloudskillsboost.google/course_templates/1241)  
 12. [Explore Generative AI with the Gemini API in Vertex AI](https://www.cloudskillsboost.google/course_templates/959) 
